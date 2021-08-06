@@ -1,0 +1,22 @@
+.gridcontainer {
+    display: grid;
+    grid-template-columns: auto;
+    margin: 10px;
+    border: 5px;
+  }
+  .griditem {
+    padding: 8px;
+    margin: 3px;
+    border-radius: 5px;
+    width: 20%;
+    align-items: center;
+  }
+  .button {
+    font-size: larger;
+    font-weight: 600;
+    width: 12%;
+}
+.button:hover {
+    font-size: larger;
+    background-color: rgb(37, 21, 177);
+}

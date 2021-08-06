@@ -1,0 +1,17 @@
+.gridcontainer {
+    display: grid;
+    grid-template-columns: 300px auto;
+    margin: 5px;
+}
+.gridcell {
+padding: 5px;
+margin: 3px;
+}
+.Addbutton {
+    float: left;
+}
+
+.btnmargin {
+    align-content: center;
+    margin: 10px 0px 30px 20px;
+}

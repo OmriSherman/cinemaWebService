@@ -1,0 +1,31 @@
+.tdmovie {
+    width: 200px;
+    height: 200px;
+}
+.image {
+    width: 200px;
+    height: 300px;
+}
+.lifont {
+    align-content: left;
+    margin: 7px;
+    font-size: 24px;
+    font-weight: 500;
+}
+.mainli {
+    margin: 7px;
+}
+.ultype {
+    margin: 7px;
+    list-style-type: none;
+    overflow: hidden;
+    width: 600px;
+}
+/* button {
+    margin: 4px;
+    background-color: rgb(12, 98, 179);
+    border-radius: 10px;
+    width: 70px;
+    font-weight: 800;
+    cursor: pointer;
+} */

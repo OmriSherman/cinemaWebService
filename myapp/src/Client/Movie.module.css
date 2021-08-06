@@ -1,0 +1,46 @@
+.tdmovie {
+    width: 200px;
+    height: 200px;
+}
+img {
+    width: 200px;
+    height: 300px;
+    border-radius: 6px;
+    float: left;
+    
+}
+.lifont {
+    align-content: left;
+    margin: 7px;
+    font-size: 24px;
+    font-weight: 500;
+}
+.mainli {
+    margin: 7px;
+    width: 200px;
+}
+
+.avatar {
+ align-items: center;
+}
+
+ul {
+    margin: 7px;
+    list-style-type: none;
+}
+button {
+    margin: 10px;
+    background-color: #417dff;
+    border-radius: 10px;
+    width: 220px;
+    /* font-weight: 800; */
+    cursor: pointer;
+    padding: 5px;
+    color: white;
+}
+
+.alignmovie {
+    margin-bottom: 10px;
+    padding-bottom: 50px;
+    height: 300px;
+}

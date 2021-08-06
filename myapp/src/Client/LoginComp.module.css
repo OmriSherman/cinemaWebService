@@ -1,0 +1,54 @@
+.LoginComp2 {
+        background-color: brown; 
+            background-color: #edf1fd;
+            border-color: #82a6f4;
+            color: #4a6ee3;
+    padding: 15px;
+    border-radius: 18PX;
+}
+.gridcontainer {
+    display: grid;
+    grid-template-columns: 400px auto;
+    margin: 5px;
+  }
+.loginBtn {
+        background-color: brown; 
+            width: 150px;
+            background-color: #ffffff;
+            border-color: #82a6f4;
+            color: #4a6ee3;
+}
+
+.loginBtn:hover {
+    color: black;
+}
+.loginInput {
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    
+    padding: 2px;
+    width: 200px;
+}
+.error {
+    
+
+}
+.loginSection {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.errBorder {
+    border-radius: 5px;
+    border: 1px solid red;
+    font-size: 14px;
+    padding: 2px;
+    width: 200px;
+    font: red;
+    
+}
+
+input:focus {
+outline: none;
+}
